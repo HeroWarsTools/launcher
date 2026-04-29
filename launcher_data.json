@@ -1,0 +1,44 @@
+{
+    "settings": {
+        "titolo": "HeroWars Launcher",
+        "geometry": "495x882+27+119"
+    },
+    "apps": [
+        {
+            "nome": "Maronno",
+            "path": "F:/firefox_HW/FirefoxPortable - maro/FirefoxPortable.exe",
+            "pos": 1,
+            "img": ""
+        },
+        {
+            "nome": "ELITE",
+            "path": "F:/firefox_HW/FirefoxPortableNightly - Copy (4_big)/FirefoxPortable.exe",
+            "pos": 4,
+            "img": "F:/firefox_HW/script&tool/nonHWH/Launcher26/img/elite.png"
+        },
+        {
+            "nome": "Oak/info",
+            "pos": 7,
+            "path": "F:/firefox_HW/FirefoxPortable - oak/FirefoxPortable.exe",
+            "img": ""
+        },
+        {
+            "nome": "Server 15",
+            "pos": 10,
+            "path": "F:/firefox_HW/FirefoxPortable - Silma/FirefoxPortable.exe",
+            "img": ""
+        },
+        {
+            "nome": "Guests\ud83d\ude0e",
+            "pos": 13,
+            "path": "\"F:\\firefox_HW\\FirefoxPortable - DS\\FirefoxPortable.exe\"",
+            "img": ""
+        },
+        {
+            "nome": "puppet",
+            "pos": 16,
+            "path": "F:/firefox_HW/FirefoxPortable - Puppet/FirefoxPortable.exe",
+            "img": ""
+        }
+    ]
+}

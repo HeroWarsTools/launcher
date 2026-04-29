@@ -1,0 +1,7 @@
+" mio launcher.py " è il programma vero e proprio.
+
+richiede dipendenze.
+
+tuo_file.bat esegue il programma senza digitare la console
+
+lancio_invisibile.vbs esegue il programma senza che la console si veda.
